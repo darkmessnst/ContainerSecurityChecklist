@@ -1,0 +1,23 @@
+The SANS Institute’s checklist for auditing Docker-based containers: https://www.sans.org/reading-room/whitepapers/auditing/checklist-audit-docker-containers-37437
+
+The article “Container Security: Examining Potential Threats to the Container Environment”: https://www.trendmicro.com/vinfo/us/security/news/security-technology/container-security-examining-potential-threats-to-the-container-environment
+
+Kubernetes Cloud Native Security: https://kubernetes.io/docs/concepts/security/overview/
+
+Securing a Kubernetes cluster: https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
+
+Orchestration with Kubernetes: https://www.linuxjournal.com/content/everything-you-need-know-about-containers-part-iii-orchestration-kubernetes
+
+Notary: https://www.cncf.io/announcement/2017/10/24/cncf-host-two-security-projects-notary-tuf-specification/
+
+Docker Content Trust: https://success.docker.com/article/introduction-to-docker-content-trust
+
+IBM Portieris: https://github.com/IBM/portieris
+
+SELinux: https://web.mit.edu/rhel-doc/5/RHEL-5-manual/Deployment_Guide-en-US/ch-selinux.html
+
+Project Calico: https://docs.projectcalico.org/v3.9/introduction/
+
+What Is Container Orchestration?: https://blog.newrelic.com/engineering/container-orchestration-explained/
+
+Security for Containers: https://www.trendmicro.com/en_ie/business/products/hybrid-cloud/container.htm
